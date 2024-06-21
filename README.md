@@ -6,3 +6,6 @@
 
 ## Análisis matemático
 - https://www.youtube.com/@florcutraro
+
+## Pensamiento Computacional
+- https://github.com/brandonporcel/Pensamiento-Computacional
